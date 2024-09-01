@@ -1,6 +1,3 @@
-Here's a README file template for your GitHub project:
-
----
 
 # Online Banquet Hall Booking Service
 
